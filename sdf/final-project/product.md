@@ -34,9 +34,9 @@ How well does the deployed app satisfy the functional requirements? Test for eac
 - [ ] **Clear Value Proposition**: Is the value proposition prominently displayed, clearly explaining what problem it solves, and why it's beneficial?
 - [ ] **Audience Targeting**: Is the target audience clearly communicated?
 - [ ] **Call to Action (CTA)**: Does the page feature a clear and compelling call to action (CTA), such as a sign-up or get-started button, that is easily identifiable and encourages visitors to engage with the app?
-- [ ] **Explanation of Features and Benefits**: Is there a concise explanation of how the app works, through a combination of text, visuals (e.g. infographics), and possibly user testimonials or case studies, to illustrate the app's key features and benefits?
+- [ ] **Explanation of Features and Benefits**: Is there a concise explanation of how the app works, through a combination of text, visuals (e.g. infographics), to illustrate the app's key features and benefits?
 - [ ] **Demo Video**: Does the landing page include a demo video (or gif) that allows visitors to experience the app's functionality firsthand without needing to sign up?
-- [ ] **Social Proof**: Are there elements of social proof, such as testimonials, user reviews, or media mentions, that build trust and credibility with the audience?
+- [ ] **Social Proof**: Are there elements of social proof, such as testimonials, user reviews, case studies or media mentions, that build trust and credibility with the audience?
 - [ ] **Custom Domain**: Has a custom domain name been configured for the application, enhancing its professionalism and brand identity?
 
 ### Score (/8):
