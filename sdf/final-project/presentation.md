@@ -5,8 +5,8 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Trainee Name:
 - Project Name:
 - Reviewer Name:
-- Functional Specification URL:
-- Production URL:
+- Slides URL:
+- Video Recording:
 
 ## Story
 - [ ] **Introduction**: Does the presentation start with an introduction covering previous work/life experiences and connection to the problem?
