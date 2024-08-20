@@ -5,6 +5,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Trainee Name:
 - Project Name:
 - Reviewer Name:
+- Repository URL:
 
 ## Readme (max: 10 points)
 - [ ] **Markdown**: Is the README formatted using Markdown?
