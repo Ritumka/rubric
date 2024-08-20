@@ -5,6 +5,8 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Trainee Name:
 - Project Name:
 - Reviewer Name:
+- Functional Specification URL:
+- Production URL:
 
 ## Functional Requirements Document
 Should have a functional requirements document with:
