@@ -6,6 +6,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Project Name:
 - Reviewer Name:
 - Repository URL:
+- Feedback Pull Request URL:
 
 ## Readme (max: 10 points)
 - [ ] **Markdown**: Is the README formatted using Markdown?
@@ -178,8 +179,8 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Backend (/9):
 - Quality Assurance and Testing (/2):
 - Security and Authorization (/5):
-- Ambitious Features (/16):
 - Features (/15):
+- Ambitious Features (/16):
 ---
 - Total: 
 
