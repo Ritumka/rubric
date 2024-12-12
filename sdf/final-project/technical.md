@@ -134,7 +134,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 ## Features (each: 1 point - max: 15 points)
 - [ ] **Sending Email**: Does the application send transactional emails (e.g., welcome emails, password reset emails) to users?
 - [ ] **Sending SMS**: Does the application send transactional SMS messages to users?
-- [ ] **Building for Mobile**: Implementation of a Progressive Web App (PWA) to provide a mobile app-like experience on the web.
+- [x] **Building for Mobile**: Implementation of a Progressive Web App (PWA) to provide a mobile app-like experience on the web.
 - [x] **Advanced Search and Filtering**: Incorporation of advanced search and filtering capabilities (Ransack or similar) to improve data retrieval and user experience.
 - [x] **Data Visualization**: Integration of charts, graphs, or other visual representations of data (Chartkick or similar) to provide insightful views of data to the user.
 - [x] **Dynamic Meta Tags**: Dynamic generation of meta tags for social media previews and SEO optimization, enhancing the application's presence on the web.
@@ -148,7 +148,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [ ] **Turbo Frames**: Implementation of Turbo Frames to enhance the performance of the application by updating only parts of the page.
 - [ ] **Other**: Any other features or functionalities that enhance the application's value and user experience (specify in notes below).
 
-### Score (7/15):
+### Score (8/15):
 
 ### Notes:
 
@@ -169,7 +169,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 
 ### Notes:
 
-## Technical Score (72/100):
+## Technical Score (73/100):
 - Readme (10/10):
 - Version Control (10/10):
 - Code Hygiene (8/8):
@@ -179,10 +179,10 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Backend (8/9):
 - Quality Assurance and Testing (2/2):
 - Security and Authorization (3/5):
-- Features (7/15):
+- Features (8/15):
 - Ambitious Features (0/16):
 ---
-- Total: 72
+- Total: 73
 
 ## Additional overall comments for the entire review may be added below:
 ```
