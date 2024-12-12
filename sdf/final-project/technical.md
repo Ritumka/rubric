@@ -143,12 +143,12 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [x] **Admin Dashboard**: Creation of an admin panel to provide valuable administrative capabilities (Rails Admin or similar).
 - [x] **Business Insights Dashboard**: Creation of an insights dashboard to provide valuable business intelligence capabilities (Blazer or similar).
 - [x] **Enhanced Navigation**: Are breadcrumbs (or similar) used to enhance site navigation?
-- [ ] **Performance Optimization**: Is the Bullet gem (or similar) used in development to detect and reduce N+1 queries and other common performance bottlenecks?
+- [x] **Performance Optimization**: Is the Bullet gem (or similar) used in development to detect and reduce N+1 queries and other common performance bottlenecks?
 - [ ] **Stimulus**: Implementation of Stimulus.js to enhance interactivity and user experience on the frontend.
 - [ ] **Turbo Frames**: Implementation of Turbo Frames to enhance the performance of the application by updating only parts of the page.
 - [ ] **Other**: Any other features or functionalities that enhance the application's value and user experience (specify in notes below).
 
-### Score (8/15):
+### Score (9/15):
 
 ### Notes:
 
@@ -169,7 +169,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 
 ### Notes:
 
-## Technical Score (73/100):
+## Technical Score (74/100):
 - Readme (10/10):
 - Version Control (10/10):
 - Code Hygiene (8/8):
@@ -179,10 +179,10 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Backend (8/9):
 - Quality Assurance and Testing (2/2):
 - Security and Authorization (3/5):
-- Features (8/15):
+- Features (9/15):
 - Ambitious Features (0/16):
 ---
-- Total: 73
+- Total: 74
 
 ## Additional overall comments for the entire review may be added below:
 ```
