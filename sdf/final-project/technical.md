@@ -169,7 +169,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 
 ### Notes:
 
-## Technical Score (71/100):
+## Technical Score (72/100):
 - Readme (10/10):
 - Version Control (10/10):
 - Code Hygiene (8/8):
@@ -178,7 +178,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Frontend (9/10):
 - Backend (8/9):
 - Quality Assurance and Testing (2/2):
-- Security and Authorization (2/5):
+- Security and Authorization (3/5):
 - Features (7/15):
 - Ambitious Features (0/16):
 ---
