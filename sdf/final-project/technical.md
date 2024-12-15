@@ -59,14 +59,14 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [x] **Advanced Data Modeling**: Has the application utilized ActiveRecord callbacks for model lifecycle management?
 - [x] **Component-Based View Templates**: Does the application use component-based view templates (partials) to promote reusability and maintainability?
 - [x] **Backend Modules**: Does the application effectively use modules (concerns, etc.) to encapsulate related functionality and promote code organization?
-- [x] **Frontend Modules**: Does the application effectively use modules (es6, etc.) to encapsulate related functionality and promote code organization?
-- [x] **Service Objects**: Does the application abstract logic into service objects when appropriate?
-- [x] **Polymorphism**: Does the application use polymorphism to create flexible and maintainable code?
-- [x] **Event-Driven Architecture**: Does the application use event-driven architecture (e.g., pub-sub) to decouple components and improve scalability? (for example ActionCable https://guides.rubyonrails.org/action_cable_overview.html)
-- [x] **Overall Separation of Concerns**: Are the concerns of the application (e.g., data access, business logic, presentation) separated effectively, with each layer focused on its specific responsibilities?
+- [ ] **Frontend Modules**: Does the application effectively use modules (es6, etc.) to encapsulate related functionality and promote code organization?
+- [ ] **Service Objects**: Does the application abstract logic into service objects when appropriate?
+- [ ] **Polymorphism**: Does the application use polymorphism to create flexible and maintainable code?
+- [ ] **Event-Driven Architecture**: Does the application use event-driven architecture (e.g., pub-sub) to decouple components and improve scalability? (for example ActionCable https://guides.rubyonrails.org/action_cable_overview.html)
+- [ ] **Overall Separation of Concerns**: Are the concerns of the application (e.g., data access, business logic, presentation) separated effectively, with each layer focused on its specific responsibilities?
 - [x] **Overall DRY Principle**: Does the application follow the DRY (Don't Repeat Yourself) principle, with code reuse and minimal redundancy?
 
-### Score (10/10):
+### Score (5/10):
 
 ### Notes:
 
@@ -105,10 +105,10 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [x] **Data Model Design**: Is the data model well-designed, clear, and efficient, facilitating easy data manipulation and retrieval, while avoiding redundancy and promoting data integrity?
 - [x] **Associations**: Does the application efficiently use Rails association methods (belongs_to, has_many, etc.) to organize data relationships?
 - [x] **Validations**: Are validations implemented to ensure data integrity and consistency?
-- [ ] **Query Optimization**: Does the application use scopes to perform optimized database queries?
+- [x] **Query Optimization**: Does the application use scopes to perform optimized database queries?
 - [x] **Database Management**: Are additional features such as file upload (CSV) or custom rake tasks for database management included? (e.g. slurp.rake task)
 
-### Score (8/9):
+### Score (9/9):
 
 ### Notes:
 
@@ -121,13 +121,13 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 ### Notes:
 
 ## Security and Authorization (max: 5 points)
-- [ ] **Credentials**: Are API keys and sensitive information securely stored (using .env or Rails credentials)?
+- [x] **Credentials**: Are API keys and sensitive information securely stored (using .env or Rails credentials)?
 - [x] **HTTPS**: Is HTTPS enforced? (config.force_ssl = true)?
 - [x] **Sensitive attributes**: Are sensitive attributes assigned in the model or controller when necessary (e.g. current_user), and not through hidden fields?
 - [x] **Strong Params**: Are strong parameters used to prevent form vulnerabilities?
 - [ ] **Authorization**: Is an authorization framework (such as Pundit) employed to manage user permissions and ensure secure access control throughout the application?
 
-### Score (3/5):
+### Score (4/5):
 
 ### Notes:
 
@@ -145,13 +145,13 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [x] **Enhanced Navigation**: Are breadcrumbs (or similar) used to enhance site navigation?
 - [x] **Performance Optimization**: Is the Bullet gem (or similar) used in development to detect and reduce N+1 queries and other common performance bottlenecks?
 - [ ] **Stimulus**: Implementation of Stimulus.js to enhance interactivity and user experience on the frontend.
-- [ ] **Turbo Frames**: Implementation of Turbo Frames to enhance the performance of the application by updating only parts of the page.
-- [ ] **Other**: Any other features or functionalities that enhance the application's value and user experience (specify in notes below).
+- [x] **Turbo Frames**: Implementation of Turbo Frames to enhance the performance of the application by updating only parts of the page.
+- [x] **Other**: Any other features or functionalities that enhance the application's value and user experience (specify in notes below).
 
-### Score (9/15):
+### Score (11/15):
 
 ### Notes:
-
+Implemented splash screen for PWA.
 
 ## Ambitious Features (each: 2 points - max: 16 points)
 - [ ] **Receiving Email**: Does the application handle incoming emails? (eg `ActionMailbox`)
@@ -162,10 +162,10 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [ ] **Cloud Storage Integration**: Integration with cloud storage services (e.g., AWS S3) for handling file uploads and storage.
 - [ ] **Chat GPT or AI Integration**: Implementation of Chat GPT or other AI services to provide intelligent responses or features. 
 - [ ] **Payment Processing**: Implementation of a payment gateway (e.g., Stripe) for secure online transactions.
-- [ ] **OAuth**: Implementation of OAuth for secure, third-party authentication.
+- [x] **OAuth**: Implementation of OAuth for secure, third-party authentication.
 - [ ] **Other**: Any other features or functionalities that enhance the application's value and user experience (specify in notes below).
 
-### Score (0/16):
+### Score (2/16):
 
 ### Notes:
 
@@ -173,16 +173,16 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - Readme (10/10):
 - Version Control (10/10):
 - Code Hygiene (8/8):
-- Patterns of Enterprise Applications (10/10):
+- Patterns of Enterprise Applications (5/10):
 - Design (5/5):
 - Frontend (9/10):
-- Backend (8/9):
+- Backend (9/9):
 - Quality Assurance and Testing (2/2):
-- Security and Authorization (3/5):
-- Features (9/15):
-- Ambitious Features (0/16):
+- Security and Authorization (4/5):
+- Features (11/15):
+- Ambitious Features (2/16):
 ---
-- Total: 74
+- Total: 75
 
 ## Additional overall comments for the entire review may be added below:
 ```
