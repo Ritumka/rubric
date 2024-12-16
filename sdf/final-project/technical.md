@@ -169,7 +169,7 @@ Implemented splash screen for PWA.
 
 ### Notes:
 
-## Technical Score (74/100):
+## Technical Score (82/100):
 - Readme (10/10):
 - Version Control (10/10):
 - Code Hygiene (8/8):
