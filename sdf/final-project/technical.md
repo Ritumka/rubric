@@ -132,7 +132,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 ### Notes:
 
 ## Features (each: 1 point - max: 15 points)
-- [ ] **Sending Email**: Does the application send transactional emails (e.g., welcome emails, password reset emails) to users?
+- [x] **Sending Email**: Does the application send transactional emails (e.g., welcome emails, password reset emails) to users?
 - [ ] **Sending SMS**: Does the application send transactional SMS messages to users?
 - [x] **Building for Mobile**: Implementation of a Progressive Web App (PWA) to provide a mobile app-like experience on the web.
 - [x] **Advanced Search and Filtering**: Incorporation of advanced search and filtering capabilities (Ransack or similar) to improve data retrieval and user experience.
@@ -148,7 +148,7 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [x] **Turbo Frames**: Implementation of Turbo Frames to enhance the performance of the application by updating only parts of the page.
 - [x] **Other**: Any other features or functionalities that enhance the application's value and user experience (specify in notes below).
 
-### Score (11/15):
+### Score (12/15):
 
 ### Notes:
 Implemented splash screen for PWA.
@@ -179,10 +179,10 @@ Implemented splash screen for PWA.
 - Backend (9/9):
 - Quality Assurance and Testing (2/2):
 - Security and Authorization (4/5):
-- Features (11/15):
+- Features (12/15):
 - Ambitious Features (2/16):
 ---
-- Total: 75
+- Total: 76
 
 ## Additional overall comments for the entire review may be added below:
 ```
