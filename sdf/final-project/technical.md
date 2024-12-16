@@ -61,12 +61,12 @@ This is intended to be filled out by staff members of DPI Tech Apprenticeship pr
 - [x] **Backend Modules**: Does the application effectively use modules (concerns, etc.) to encapsulate related functionality and promote code organization?
 - [ ] **Frontend Modules**: Does the application effectively use modules (es6, etc.) to encapsulate related functionality and promote code organization?
 - [x] **Service Objects**: Does the application abstract logic into service objects when appropriate?
-- [ ] **Polymorphism**: Does the application use polymorphism to create flexible and maintainable code?
+- [x] **Polymorphism**: Does the application use polymorphism to create flexible and maintainable code?
 - [ ] **Event-Driven Architecture**: Does the application use event-driven architecture (e.g., pub-sub) to decouple components and improve scalability? (for example ActionCable https://guides.rubyonrails.org/action_cable_overview.html)
 - [ ] **Overall Separation of Concerns**: Are the concerns of the application (e.g., data access, business logic, presentation) separated effectively, with each layer focused on its specific responsibilities?
 - [x] **Overall DRY Principle**: Does the application follow the DRY (Don't Repeat Yourself) principle, with code reuse and minimal redundancy?
 
-### Score (6/10):
+### Score (7/10):
 
 ### Notes:
 
@@ -159,13 +159,13 @@ Implemented splash screen for PWA.
 - [ ] **Web Scraping Capabilities**: Incorporation of web scraping functionality to extract data from external websites.
 - [x] **Background Processing**: Are background jobs (eg `ActiveJob`) implemented for time-consuming processes, improving app performance and user experience?
 - [ ] **Mapping and Geolocation**: Use of mapping or geocoding libraries (e.g., Mapbox, Geocoder) to add location-based features to the application.
-- [ ] **Cloud Storage Integration**: Integration with cloud storage services (e.g., AWS S3) for handling file uploads and storage.
+- [x] **Cloud Storage Integration**: Integration with cloud storage services (e.g., AWS S3) for handling file uploads and storage.
 - [ ] **Chat GPT or AI Integration**: Implementation of Chat GPT or other AI services to provide intelligent responses or features. 
 - [ ] **Payment Processing**: Implementation of a payment gateway (e.g., Stripe) for secure online transactions.
 - [x] **OAuth**: Implementation of OAuth for secure, third-party authentication.
 - [ ] **Other**: Any other features or functionalities that enhance the application's value and user experience (specify in notes below).
 
-### Score (4/16):
+### Score (6/16):
 
 ### Notes:
 
@@ -173,16 +173,16 @@ Implemented splash screen for PWA.
 - Readme (10/10):
 - Version Control (10/10):
 - Code Hygiene (8/8):
-- Patterns of Enterprise Applications (6/10):
+- Patterns of Enterprise Applications (7/10):
 - Design (5/5):
 - Frontend (9/10):
 - Backend (9/9):
 - Quality Assurance and Testing (2/2):
 - Security and Authorization (4/5):
 - Features (12/15):
-- Ambitious Features (4/16):
+- Ambitious Features (6/16):
 ---
-- Total: 79
+- Total: 82
 
 ## Additional overall comments for the entire review may be added below:
 ```
